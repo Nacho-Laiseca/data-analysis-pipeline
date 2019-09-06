@@ -1,3 +1,6 @@
 # Files and directories to ignore
 
 Proyecto_W3_-_Pipelines.md
+input/
+.DS_Store
+.env
