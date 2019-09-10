@@ -14,6 +14,6 @@ Period can be: month, week, weekdays, daytime or hour
 
 For example if you want to get how prices fluctuate during the day from Madrid to Valencia:
 
-`python3 main.py -d VALENCIA -p hour``
+`python3 main.py -d VALENCIA -p hour`
 
 ![alt text](https://www.globalnews10.com/wp-content/uploads/2019/03/renfe.jpg "RENFE")
