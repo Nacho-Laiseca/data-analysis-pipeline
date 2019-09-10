@@ -4,3 +4,4 @@ Proyecto_W3_-_Pipelines.md
 input/
 .DS_Store
 .env
+__pycache__/
