@@ -16,5 +16,4 @@ For example if you want to get how prices fluctuate during the day from Madrid t
 
 `python3 main.py -d VALENCIA -p hour``
 
-
-[logo]: https://www.globalnews10.com/wp-content/uploads/2019/03/renfe.jpg
+![alt text](https://www.globalnews10.com/wp-content/uploads/2019/03/renfe.jpg "RENFE")
